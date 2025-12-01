@@ -179,3 +179,5 @@ autogpt_platform/backend/settings.py
 .test-contents
 .claude/settings.local.json
 /autogpt_platform/backend/logs
+# _legacy_backup
+_legacy_backup/*
